@@ -53,7 +53,7 @@ ul li {
 nav a {
   text-decoration: none;
   letter-spacing: 0.2rem;
-  color: black;
+  color: #18202D;
   position: relative;
   text-transform: uppercase;
   font-size: 16px;
@@ -282,11 +282,6 @@ nav a:hover::before {
   height: 400px;
 }
 
-
-a:link,a:active,a:visited,a:hover{
-	color:#3f51b5;
-}
-
 .outerdiv
 {
 	width: 100%;
@@ -330,14 +325,14 @@ a:link,a:active,a:visited,a:hover{
 	background: white;
     grid-column: 4/5;
     grid-row: 1/3;
-    color: black;
+    color: #18202D;
 }
 .div4
 {
 	background: white;
 	grid-column: 1/2;
     grid-row: 2/3;
-    color: black;
+    color: #18202D;
 }
 .div5
 {
@@ -405,7 +400,7 @@ a:link,a:active,a:visited,a:hover{
 .review p
 {
 	font-size: 0.95rem;
-    color: #F3DEFF;
+    color: #f4edf8;
     font-weight: 500;
     opacity: 50%;
     line-height: 1.5;
