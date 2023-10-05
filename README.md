@@ -1,6 +1,6 @@
 # Coursera Meta Frontend Developer Certification Coursework 🌱
 
-This is a personal GitHub repository for the Coursera Meta Frontend Developer Certification coursework. This repository contains my final project, which is a peer-reviewed assignment I completed as part of the certification program. 📚
+This is a personal repository for the Coursera Meta Frontend Developer Certification coursework. This repository contains my final project, which was an **HTML & CSS only** peer-reviewed assignment I completed as part of the certification program. 
 
 ## Project Overview 🌼
 
