@@ -16,4 +16,4 @@ Feel free to explore the code and use it as a reference or inspiration for your 
 
 ## Live Demo 🚀
 
-You can see this project live at [GitHub Pages](https://notsooshariff.github.io/coursera-lucky-shrub-project/) 
+You can see this project live at [GitHub Pages](https://notsooshariff.github.io/luckyshrub-coursera/) 
